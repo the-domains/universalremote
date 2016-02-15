@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Universal Remote]]></title>
-        <description><![CDATA[Universal Remote]]></description>
+        <title><![CDATA[Universal Remote: The Live Quiz Show Experience]]></title>
+        <description><![CDATA[Universal Remote: The Live Quiz Show Experience]]></description>
         <link>https://thegrid.ai/universalremote/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 19:11:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/universalremote/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UNIVERSAL REMOTE at All-Con 2016]]></title>
+            <description><![CDATA[<article><h1>UNIVERSAL REMOTE at All-Con 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/267bccdbd9b379cf702bec4c73fe1cc9d9405422.jpg"></article>]]></description>
+            <link>https://thegrid.ai/universalremote/universal-remote-at-all-con-2016/index.html</link>
+            <guid isPermaLink="false">7058f5d1-8795-4c27-b675-9adc49a48df6</guid>
+            <pubDate>Mon, 15 Feb 2016 19:11:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On The Air...]]></title>
             <description><![CDATA[<article><h1>On The Air...</h1><p>I’ve had a long-standing love affair with game shows. It started with shows like MATCH GAME, PASSWORD, JEOPARDY, and PRESS YOUR LUCK, then (obviously) WHEEL OF FORTUNE and WHO WANTS TO BE A MILLIONAIRE? However, one show resonated strongly with me, and that was MTV’s REMOTE CONTROL.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6ab9b50da26765752f54c606f13bbb6a103453f.jpg"></article>]]></description>
