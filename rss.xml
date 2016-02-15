@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Universal Remote]]></title>
         <description><![CDATA[Universal Remote]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/universalremote/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:56:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 18:56:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/universalremote/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[REMOTE CONTROL: The Whole Damned Show]]></title>
+            <description><![CDATA[<article><h1>REMOTE CONTROL: The Whole Damned Show</h1><p>Warts and all. Here's the entire performance from the Fan Expo Dallas Saturday Night Shindig on 30 May 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96366181058b8c21cdb1a1d6ab09fca2555767a6.jpg"></article>]]></description>
+            <link>https://vimeo.com/130580223</link>
+            <guid isPermaLink="false">3e47dd64-3e0b-4a73-a0c8-db827ba760de</guid>
+            <pubDate>Mon, 15 Feb 2016 18:56:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Space City Comic Con 2015 Universal Remote]]></title>
             <description><![CDATA[<article><h1>Space City Comic Con 2015 Universal Remote</h1><p>Rene was caught in a game show at Space City Comic Con! What followed was absolute hilarity...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435caa916d03d82043cfabd07a99553ff1a99702.jpg"></article>]]></description>
