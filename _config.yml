@@ -1,7 +1,7 @@
 name: Universal Remote
 favicon: null
-layout_spectrum: 0.43387544178403914
-typography_spectrum: 0.13034574105404317
+layout_spectrum: 0.23545
+typography_spectrum: 0.28468
 title: 'Universal Remote: The Live Quiz Show Experience'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8343313373625278
-  lightness: 0.566951539600268
-  saturation: 0.9328654406126589
-  rhythmicContrast: 0.3331169420853257
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
