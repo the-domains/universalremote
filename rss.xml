@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Universal Remote]]></title>
+        <description><![CDATA[Universal Remote]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 18:56:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Space City Comic Con 2015 Universal Remote]]></title>
+            <description><![CDATA[<article><h1>Space City Comic Con 2015 Universal Remote</h1><p>Rene was caught in a game show at Space City Comic Con! What followed was absolute hilarity...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435caa916d03d82043cfabd07a99553ff1a99702.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CZZBc9Q7E70</link>
+            <guid isPermaLink="false">2c6da585-0275-48ec-ab2a-1078f708fcf6</guid>
+            <pubDate>Mon, 15 Feb 2016 18:56:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
